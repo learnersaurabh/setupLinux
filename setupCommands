@@ -1,0 +1,16 @@
+sudo apt install gnome-tweaks gnome-shell-extensions gnome-shell-extension-manager -y
+
+sudo apt install git
+
+Clone below repos
+ - https://github.com/vinceliuice/WhiteSur-gtk-theme
+ Install1: ./install.sh -t all -N glassy
+ Install2: sudo ./tweaks.sh -g
+ 
+ Install icons using repo mentioned in above repo.
+
+ Install 'macos curser' from gnome-look.org
+ 
+ fonts: https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/blob/master/SF-Pro-Display-Regular.otf
+ 
+ 
